@@ -2,7 +2,7 @@
 
 ![badge](https://github.com/Neo-Hao/react-native-to-do-app-with-tests/actions/workflows/ci.yml/badge.svg)
 
-This is a to-do application that teaches state management in mobile development using React Native. This application was adapted and improved based on what ChatGPT generated. The prompts that were used to solicit the rough code base from ChatGPT include:
+This is a to-do application that teaches testing in mobile development using React Native. This application was adapted and improved based on what ChatGPT generated. The prompts that were used to solicit the rough code base from ChatGPT include:
 
 * build a to-do app using React Native
 * improve the style of this app
