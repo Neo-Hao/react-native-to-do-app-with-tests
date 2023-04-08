@@ -1,4 +1,4 @@
-# Introduction to styling in React Native
+# Introduction to testing in React Native
 
 ![badge](https://github.com/Neo-Hao/react-native-to-do-app-with-tests/actions/workflows/ci.yml/badge.svg)
 
